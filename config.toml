@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = "https://s212441.github.io/SocialGraphs_Website"
 languageCode = 'en-us'
 title = 'Nobel Prize Laureates'
 theme = "ananke" 
+publishDir = "docs"
