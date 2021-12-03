@@ -1,4 +1,4 @@
-baseURL = "public\index.html"
+baseURL = "https://s212441.github.io/"
 languageCode = 'en-us'
 title = 'Nobel Prize Laureates'
 theme = "ananke" 
